@@ -9,12 +9,19 @@ network
 usb for power when used without pc
 
 webgui:
+
 mode selection:
+
 -chamsys osc main playback
+
 -chamsys osc execute wing with execute page selection drop down
+
 -chamsys midi 5 pin out (use miditable.txt ) main playback
+
 -chamsys midi 5 pin out (use miditable.txt) execute wing with execute page selection drop down
+
 -chamsys pc udp main playback
+
 -chamsys pc udp execute wing with page selection drop down
 -generic midi 5 pin out
 

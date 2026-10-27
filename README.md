@@ -28,6 +28,8 @@ mode selection:
 
 -generic midi 5 pin out
 
+-generic osc
+
 
 configuration:
 
